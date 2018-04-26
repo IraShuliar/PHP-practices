@@ -1,0 +1,4 @@
+emeil - emeilom
+parol - min 6 znakiw - 1 welyka bukwa i cyfra
+i widpowidno do ciogo pokazuwaty pomylky : if parol ne maje 6 znakiw - pomylka : parol ne maje 6 znakiw
+if parol ne maje bukwy :  to parol ne maje min 1 bukwy i cyfry

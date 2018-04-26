@@ -1,0 +1,8 @@
+		<footer>
+			<div class="container">
+				<p>This is footer</p>
+			</div>
+		</footer>
+		
+	</body>
+</html>
